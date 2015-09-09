@@ -37,7 +37,9 @@
     "gulp": "^3.8.10"
   },
   "dependencies": {
-    "bitcore": "^0.13.0",
     "unorm": "^1.3.3"
+  },
+  "peerDependency": {
+    "bitcore": "^0.13.0"
   }
 }
